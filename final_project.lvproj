@@ -18,6 +18,8 @@
 		<Item Name="subvis" Type="Folder">
 			<Item Name="ai_act.vi" Type="VI" URL="../subvis/ai_act.vi"/>
 			<Item Name="hp_indicator.vi" Type="VI" URL="../subvis/hp_indicator.vi"/>
+			<Item Name="random bullet.vi" Type="VI" URL="../subvis/random bullet.vi"/>
+			<Item Name="random insert.vi" Type="VI" URL="../subvis/random insert.vi"/>
 			<Item Name="random shoot.vi" Type="VI" URL="../subvis/random shoot.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
