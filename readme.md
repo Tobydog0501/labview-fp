@@ -10,8 +10,8 @@ Items: Arrray U32
 - [ ] 3: beer
 - [ ] 4: tabako
 
-- [ ] AI act
-- [ ] 發放道具
+- [*] AI act
+- [*] 發放道具
 - [ ] bullet ctl
 
 - [ ] main.vi 道具列
