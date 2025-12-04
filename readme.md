@@ -14,15 +14,29 @@ Items: Arrray U32
 - [x] 發放道具
 - [ ] bullet ctl
 
-- [ ] main.vi 道具列
+- [x] main.vi 道具列
 - [ ] main.vi 狀態列
-- [ ] main.vi 難度選擇
+- [x] main.vi 難度選擇
     - difficuly
     - item amount
     - bullet amount
     - hp amount
 
-
+state
+⦁	GAME START
+⦁	BULLET LOAD...
+⦁	YOUR TURN
+⦁	OPPONENT TURN
+⦁	SHOOT SELF
+⦁	SHOOT OPPONENT
+⦁	YOU USE (ITEM)
+⦁	OPPONENT USE (ITEM)
+⦁	ITEM GIVE
+⦁	(Item effect description)
+⦁	WHO HP -1
+⦁	WHO DIE
+⦁	WHO WIN
+⦁	WHI LOSE
 
 
 - [ ] 5: cuff (not required)
