@@ -23,20 +23,20 @@ Items: Arrray U32
     - hp amount
 
 state
-⦁	GAME START
-⦁	BULLET LOAD...
-⦁	YOUR TURN
-⦁	OPPONENT TURN
-⦁	SHOOT SELF
-⦁	SHOOT OPPONENT
-⦁	YOU USE (ITEM)
-⦁	OPPONENT USE (ITEM)
-⦁	ITEM GIVE
-⦁	(Item effect description)
-⦁	WHO HP -1
-⦁	WHO DIE
-⦁	WHO WIN
-⦁	WHI LOSE
+- GAME START
+- BULLET LOAD...
+- YOUR TURN
+- OPPONENT TURN
+- SHOOT SELF
+- SHOOT OPPONENT
+- YOU USE (ITEM)
+- OPPONENT USE (ITEM)
+- ITEM GIVE
+- (Item effect description)
+- WHO HP -1
+- WHO DIE
+- WHO WIN
+- WHI LOSE
 
 
 - [ ] 5: cuff (not required)
