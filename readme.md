@@ -11,7 +11,7 @@ When it's your turn, you will need to decide whom to shoot - your opponent or yo
 If you choose to shoot yourself, you can act again if it's an empty round, otherwise you'll lose one health.
 
 ### Items
-To make things fun, there're also some items to create greate adventage for you|| or your opponents||.
+To make things fun, there're also some items to create greate adventage for you|| or your opponents ||.
 
 #### magnifier
 You can check the current bullet that is loaded in the chamber.
