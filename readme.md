@@ -38,10 +38,12 @@ There you can select the difficulty of the game, the amount of bullets loaded in
 ### Bullet Type
 #### Live round
 This type of bullet is painted in black, like this:
+<br>
 ![image](https://github.com/Tobydog0501/labview-fp/blob/main/imgs/live%20round.png)
 
 #### Empty round
 This type of bullet is transparent inside, like this:
+<br>
 ![image](https://github.com/Tobydog0501/labview-fp/blob/main/imgs/empty%20round.png)
 
 ### Difficulties
